@@ -36,5 +36,17 @@ TESTS = {
             "input": [124],
             "answer": 28,
         },
+        {
+            "input": [222],
+            "answer": 53,
+        },
+        {
+            "input": [600],
+            "answer": 148,
+        },
+        {
+            "input": [2000],
+            "answer": 499,
+        },
     ]
 }
